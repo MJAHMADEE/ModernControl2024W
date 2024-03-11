@@ -1,5 +1,5 @@
 # Chapter 3: Representation of Linear Systems - System Linearization
-[![GitHub ID](https://img.shields.io/badge/GitHub-Shima Sadat Naseri-blue?style=flat&logo=github)](https://github.com/)
+[![GitHub ID](https://img.shields.io/badge/GitHub-ShimaSadatNaseri-blue?style=flat&logo=github)](https://github.com/)
 
 Welcome to the section on System Linearization in Chapter 3 of our Modern Control Course, where we focus on the linearization of various systems including Electric, Electromechanical, Mechanical, and Hydraulic Systems.
 
