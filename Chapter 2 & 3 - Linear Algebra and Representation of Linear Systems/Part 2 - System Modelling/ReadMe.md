@@ -1,45 +1,24 @@
-# Chapter 2: Linear Classifiers
+# Chapter 3: Representation of Linear Systems - System Modelling
+[![GitHub ID](https://img.shields.io/badge/GitHub-ivias2000-blue?style=flat&logo=github)](https://github.com/ivias2000)
 
-Welcome to Chapter 2 of our course, where we delve into the fascinating world of Linear Classifiers, including topics on the Classification Problem and Logistic Regression.
-
-## Chapter 2 Overview
-
-In this chapter, we explore the fundamentals of linear classification methods and their applications. You'll gain a deeper understanding of how these models work and how they're implemented in practice.
-
-### What You Will Learn
-
-- The concept of the Classification Problem
-- Basics of Linear Classifiers
-- Introduction to Logistic Regression
-- Practical applications of Linear Classifiers
+Welcome to Chapter 3 of our Modern Control Course, focusing on the Representation of Linear Systems, including Electric, Electromechanical, Mechanical, and Hydraulic Systems.
 
 ## Resources
 
-To enhance your learning experience, we provide a range of resources including slides, video content, and Python code examples.
+Find all the materials for Chapter 3, such as slides, videos, and additional documentation, at the following link.
 
-### Chapter Slides
+[![Access Materials](https://img.shields.io/badge/Access%20Materials-Google%20Drive-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/drive/folders/1myz9Ot7pUz3zv-SdwS_hBUEZ81rR2Vv2?usp=sharing)
 
-Access the PowerPoint slides for Chapter 2 to get a comprehensive overview of the topics covered.
+## Chapter 3 Overview
 
-[![View Slides](https://img.shields.io/badge/View%20Slides-Google%20Drive-blue)](https://drive.google.com/drive/folders/YourChapter2SlidesLink?usp=sharing)
+This chapter delves into the various systems that are pivotal in control engineering, focusing on their mathematical modeling and representation.
 
-### Chapter Video Content
+### What You Will Learn
 
-Watch the chapter videos to understand the concepts visually and in detail.
-
-[![Access Videos](https://img.shields.io/badge/Access-Videos-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/drive/folders/YourChapter2VideoLink?usp=sharing)
-
-### Chapter Python Code
-
-Get hands-on with the Python code examples provided for Chapter 2. These examples will help you understand the practical implementation of linear classifiers.
-
-[![Access Code](https://img.shields.io/badge/Access-Code-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://drive.google.com/drive/folders/YourChapter2CodeLink?usp=sharing)
-
-## Python Tutorial
-
-For those who want to dive deeper into Python, check out the Python tutorial relevant to this chapter.
-
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/YourPythonTutorialLink?usp=sharing)
+- The principles of system modeling
+- Representation and analysis of electric systems
+- Modeling of electromechanical systems
+- Mechanical and hydraulic systems representation
 
 ---
 
