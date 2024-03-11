@@ -1,4 +1,5 @@
 # Chapter 2: Linear Algebra
+[![GitHub ID](https://img.shields.io/badge/GitHub-ImanGandomi-blue?style=flat&logo=github)](https://github.com/ImanGandomi) [![GitHub ID](https://img.shields.io/badge/GitHub-MinooJahanseir-blue?style=flat&logo=github)](https://github.com/)
 
 Welcome to Chapter 2 of our Modern Control Course, where we delve into the crucial mathematical framework of Linear Algebra.
 
