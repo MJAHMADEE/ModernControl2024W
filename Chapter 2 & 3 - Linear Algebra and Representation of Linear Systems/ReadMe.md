@@ -20,6 +20,9 @@ Finish the chapter with advanced system linearization methods.
 
 [![Part 3](https://img.shields.io/badge/Access-Part%203-blue?style=flat-square&logo=github)](https://github.com/MJAHMADEE/ModernControl2024W/tree/main/Chapter%202%20%26%203%20-%20Linear%20Algebra%20and%20Representation%20of%20Linear%20Systems/Part%203%20-%20System%20Linearization)
 
+## Solved Problems
+
+[![Solved Problems](https://img.shields.io/badge/Access-Solved%20Problems-green?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1-swjg2uTvLo8DWbczMrxlhqDRK19Hvus/view?usp=sharing)
 
 # Chapter 2: Linear Algebra
 
