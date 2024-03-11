@@ -8,6 +8,8 @@ All materials for Chapter 2, including slides, video content, and additional rea
 
 [![Access Materials](https://img.shields.io/badge/Access%20Materials-Google%20Drive-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/drive/folders/1xbNpw5BPaCoYOznh6n0AKL4YybUdkZX4?usp=sharing)
 
+[Introduction to Linear Algebra, Fifth Edition (2016) by Gilbert Strang](https://math.mit.edu/~gs/linearalgebra/ila5/indexila5.html)
+
 ## Chapter 2 Overview
 
 In this chapter, we cover the essential aspects of Linear Algebra necessary for understanding and analyzing control systems.
