@@ -25,7 +25,6 @@
 
 - [![Python Tutorial 1 & 2](https://img.shields.io/badge/Python%20Tutorial%201-Video-blue?style=flat&logo=google-drive)](https://drive.google.com/drive/folders/1nvJ6fmUX-OMvtt-u134HotlSgLInTZac?usp=sharing)
 - ![Telegram Python Intro](https://img.shields.io/badge/Telegram-Python_Intro-blue?style=flat&logo=telegram)
-- ![Telegram AI & Machine Learning](https://img.shields.io/badge/Telegram-AI_&_Machine_Learning-blue?style=flat&logo=telegram)
 - ![Telegram GitHub Intro](https://img.shields.io/badge/Telegram-GitHub_Intro-blue?style=flat&logo=telegram)
 - ![Telegram Python Libraries](https://img.shields.io/badge/Telegram-Python_Libraries-blue?style=flat&logo=telegram)
 - ![Telegram Google Colab](https://img.shields.io/badge/Telegram-Google_Colab-blue?style=flat&logo=telegram)
