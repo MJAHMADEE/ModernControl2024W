@@ -5,9 +5,19 @@ Welcome to Chapter 2 of our Modern Control Course, where we delve into the cruci
 
 ## Resources
 
-All materials for Chapter 2, including slides, video content, and additional reading materials, can be accessed through the following link.
+All materials for Chapter 2, including slides, video content, and additional reading materials, can be accessed through the following link. Below you will find instructions on how to access the content and materials for the workshop.
 
-[![Access Materials](https://img.shields.io/badge/Access%20Materials-Google%20Drive-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/drive/folders/1xbNpw5BPaCoYOznh6n0AKL4YybUdkZX4?usp=sharing)
+## Join the Telegram Channel
+
+First, please join our Telegram channel to stay updated and access the materials:
+
+[![Join Telegram Channel](https://img.shields.io/badge/Join%20Telegram-Channel-blue?style=flat&logo=telegram)](https://t.me/+mTNAoLKjECkzYmJk)
+
+## Access the Materials
+
+Once you've joined the Telegram channel, please refer to the following messages for detailed information and materials:
+
+[![Message 23](https://img.shields.io/badge/View-Message%2023-blue?style=flat&logo=telegram)](https://t.me/c/2062268120/23)
 
 [Introduction to Linear Algebra, Fifth Edition (2016) by Gilbert Strang](https://math.mit.edu/~gs/linearalgebra/ila5/indexila5.html)
 
