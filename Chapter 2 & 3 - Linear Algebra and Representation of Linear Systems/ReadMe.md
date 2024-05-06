@@ -2,6 +2,12 @@
 
 Access the materials for Chapter 2 through the following parts:
 
+## All Resources
+
+Find all the materials for Chapter 4, such as slides, videos, and additional documentation, at the following link.
+
+[![Access Materials](https://img.shields.io/badge/Access%20Materials-Google%20Drive-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/drive/folders/12RyFO_wlVzilk3fu0HqH2fXaVA3DCOIf?usp=sharing)
+
 ## Part 1: Linear Algebra
 
 Review the linear algebra concepts applied to system representations.
