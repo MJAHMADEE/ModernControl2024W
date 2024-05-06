@@ -1,3 +1,9 @@
+# All Resources
+
+Find all the materials for Chapter 4, such as slides, videos, and additional documentation, at the following link.
+
+[![Access Materials](https://img.shields.io/badge/Access%20Materials-Google%20Drive-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/drive/folders/1-Se4KPbG8nqQ0MfWtwzN_zykL5gEqPLM?usp=sharing)
+
 # Assignment
 
 In this assignment, you will:
