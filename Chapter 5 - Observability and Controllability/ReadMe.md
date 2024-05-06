@@ -5,6 +5,12 @@ Welcome to Chapter 5 of the Modern Control Systems 2024 Winter course. This chap
 ## Resources
 Below are the teaching materials for this chapter. These include lecture videos, questions with solutions, and relevant code examples.
 
+### All Resources
+
+Find all the materials for Chapter 4, such as slides, videos, and additional documentation, at the following link.
+
+[![Access Materials](https://img.shields.io/badge/Access%20Materials-Google%20Drive-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/drive/folders/1vYYQxCClt2dnDS1vwKWwjL5sEVtkaXJH?usp=sharing)
+
 ### Observability and Controllability Materials
 [![Materials](https://img.shields.io/badge/Access-Materials-green?style=for-the-badge&logo=google-drive)](https://drive.google.com/drive/folders/1_ol_4g47LeErF-n8gavHb2KM7dFG_57H?usp=sharing)
 
