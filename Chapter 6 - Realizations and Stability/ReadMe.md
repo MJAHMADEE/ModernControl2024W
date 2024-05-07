@@ -1,4 +1,5 @@
 # Chapter 6: Realizations and Stability
+[![GitHub ID](https://img.shields.io/badge/GitHub-Masoudj2001-blue?style=flat&logo=github)](https://github.com/Masoudj2001)
 
 Welcome to Chapter 6 of the Modern Control Systems 2024 Winter course. This chapter focuses on the concepts of System Realizations and Stability in control systems. You will find comprehensive discussions, definitions, tests, and additional resources to enhance your understanding of these pivotal topics.
 
